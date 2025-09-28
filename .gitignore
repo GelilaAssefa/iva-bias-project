@@ -1,1 +1,23 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Conda/virtual environment stuff
+*.lock
+*.log
+
+# Quarto/HTML build outputs (if any)
+.quarto/
+_site/
+_freeze/
+
+# Data files (don’t upload large datasets to GitHub)
+data/
 
