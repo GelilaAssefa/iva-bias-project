@@ -1,0 +1,26 @@
+=== ICA on layer-2 activations ===
+Samples: 11306  |  Units: 32  |  Components: 20
+
+Top 5 components by sex correlation:
+ component  spearman_with_sex  abs_corr
+        19          -0.388271  0.388271
+        11          -0.386399  0.386399
+         6           0.274638  0.274638
+        17           0.251977  0.251977
+         9           0.214162  0.214162
+
+Top 5 components by race correlation:
+ component  spearman_with_race  abs_corr
+         0            0.216890  0.216890
+         5            0.203695  0.203695
+        12           -0.176535  0.176535
+         1           -0.159142  0.159142
+         2            0.134605  0.134605
+
+Top 5 components by label correlation:
+ component  spearman_with_label  abs_corr
+        11            -0.412293  0.412293
+        13            -0.172597  0.172597
+        18            -0.140680  0.140680
+         1            -0.125746  0.125746
+        16            -0.121819  0.121819

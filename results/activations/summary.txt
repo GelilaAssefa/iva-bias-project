@@ -1,0 +1,9 @@
+Adult DNN activations (test set)
+layer1 shape: (11306, 64)
+layer2 shape: (11306, 32)
+metadata rows: 11306
+
+Performance on test (using saved DNN):
+accuracy: 0.8515
+roc_auc: 0.9104
+f1: 0.6777
